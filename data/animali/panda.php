@@ -1,1 +1,5 @@
-<?php echo "panda"; ?>
+<pre>
+<?php echo "panda"; 
+
+?>
+</pre>
